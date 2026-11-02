@@ -19,8 +19,8 @@
     "xhs": false
   },
   "latest_version": {
-    "code": 20,
-    "name": "2.1.0-alpha.10",
-    "apk_url": "https://cdn.jsdelivr.net/gh/boyygt873/liuguang-config@v2.1.0-alpha.10/apk/app-release.apk"
+    "code": 21,
+    "name": "2.1.0-alpha.11",
+    "apk_url": "https://liuguang-config-1259650665.cos.ap-guangzhou.myqcloud.com/apk/app-release.zip"
   }
 }
