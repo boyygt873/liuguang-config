@@ -1,0 +1,26 @@
+{
+  "douyin": {
+    "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+    "version_code": "170400",
+    "version_name": "17.4.0",
+    "post_api": "https://www.douyin.com/aweme/v1/web/aweme/post/",
+    "hot_api": "https://www.douyin.com/aweme/v1/web/hot/search/list/",
+    "search_api": "https://www.douyin.com/aweme/v1/web/general/search/single/"
+  },
+  "toutiao": {
+    "info_host": "https://m.toutiao.com",
+    "vod_host": "https://vod.bytedanceapi.com"
+  },
+  "platform_online": {
+    "douyin": true,
+    "kuaishou": true,
+    "bilibili": true,
+    "toutiao": true,
+    "xhs": false
+  },
+  "latest_version": {
+    "code": 20,
+    "name": "2.1.0-alpha.10",
+    "apk_url": "https://cdn.jsdelivr.net/gh/boyygt873/liuguang-config@v2.1.0-alpha.10/apk/app-release.apk"
+  }
+}
