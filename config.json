@@ -19,8 +19,13 @@
     "xhs": false
   },
   "latest_version": {
-    "code": 22,
-    "name": "2.1.0-alpha.12",
+    "code": 23,
+    "name": "2.1.0-alpha.13",
     "apk_url": "https://a0e92c7697f2193d5.app.workbuddy.host/app-release.apk?sharecode=232SUORMIT"
+  },
+  "contact": {
+    "wechat_id": "48486858",
+    "qr_url": "https://liuguang-config-1259650665.cos.ap-guangzhou.myqcloud.com/contact/wechat_qr.jpg",
+    "tip": "添加时请备注「激活码」，付款后当场发码。激活码一经售出，不支持退换。"
   }
 }
