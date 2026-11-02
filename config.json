@@ -19,9 +19,10 @@
     "xhs": false
   },
   "latest_version": {
-    "code": 23,
-    "name": "2.1.0-alpha.13",
-    "apk_url": "https://a0e92c7697f2193d5.app.workbuddy.host/app-release.apk?sharecode=232SUORMIT"
+    "code": 24,
+    "name": "2.1.0-alpha.14",
+    "apk_url": "https://a0e92c7697f2193d5.app.workbuddy.host/app-release.apk?sharecode=232SUORMIT",
+    "lite_apk_url": "https://a0e92c7697f2193d5.app.workbuddy.host/app-release-lite.apk?sharecode=232SUORMIT"
   },
   "contact": {
     "wechat_id": "48486858",
