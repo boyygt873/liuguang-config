@@ -21,13 +21,13 @@
   "latest_version": {
     "code": 25,
     "name": "2.1.0-alpha.15",
-    "apk_url": "https://liuguang-config-1259650665.cos.ap-guangzhou.myqcloud.com/apk/liuguang_v2.1.0-alpha.15.apk",
-    "lite_apk_url": "https://liuguang-config-1259650665.cos.ap-guangzhou.myqcloud.com/apk/liuguang_v2.1.0-alpha.15.lite.apk"
+    "apk_url": "https://a0e92c7697f2193d5.app.workbuddy.host/app-release.apk?sharecode=232SUORMIT",
+    "lite_apk_url": "https://a0e92c7697f2193d5.app.workbuddy.host/app-release-lite.apk?sharecode=232SUORMIT"
   },
   "pc_version": {
     "code": 5,
     "name": "1.3.0",
-    "pc_url": "https://liuguang-config-1259650665.cos.ap-guangzhou.myqcloud.com/pc/liuguang_v1.3.0_PC.zip"
+    "pc_url": "https://a0e92c7697f2193d5.app.workbuddy.host/liuguang_v1.3.0_PC.zip?sharecode=232SUORMIT"
   },
   "contact": {
     "wechat_id": "48486858",
