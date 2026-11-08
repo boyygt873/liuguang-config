@@ -19,10 +19,11 @@
     "xhs": false
   },
   "latest_version": {
-    "code": 25,
-    "name": "2.1.0-alpha.15",
+    "code": 26,
+    "name": "2.1.0-alpha.16",
     "apk_url": "https://a0e92c7697f2193d5.app.workbuddy.host/app-release.apk?sharecode=232SUORMIT",
-    "lite_apk_url": "https://a0e92c7697f2193d5.app.workbuddy.host/app-release-lite.apk?sharecode=232SUORMIT"
+    "lite_apk_url": "https://a0e92c7697f2193d5.app.workbuddy.host/app-release-lite.apk?sharecode=232SUORMIT",
+    "changelog": "新增：Cookie 一键登录（扫码自动获取，抖音/快手/小红书/B站）；Cookie 自动保鲜（有效期自动续期）"
   },
   "pc_version": {
     "code": 6,
