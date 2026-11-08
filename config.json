@@ -19,16 +19,16 @@
     "xhs": false
   },
   "latest_version": {
-    "code": 27,
-    "name": "2.1.0-alpha.17",
+    "code": 28,
+    "name": "2.1.0-alpha.18",
     "apk_url": "https://a0e92c7697f2193d5.app.workbuddy.host/app-release.apk?sharecode=232SUORMIT",
     "lite_apk_url": "https://a0e92c7697f2193d5.app.workbuddy.host/app-release-lite.apk?sharecode=232SUORMIT",
-    "changelog": "新增：Cookie 同步到电脑（局域网直传/同步文本，免手动重填）"
+    "changelog": "修复：小红书 App 分享链接解析失败（移动分享链路适配，不再误报 Cookie 失效）"
   },
   "pc_version": {
-    "code": 7,
-    "name": "1.4.1",
-    "pc_url": "https://a0e92c7697f2193d5.app.workbuddy.host/liuguang_v1.4.1_PC.zip?sharecode=232SUORMIT"
+    "code": 8,
+    "name": "1.4.2",
+    "pc_url": "https://a0e92c7697f2193d5.app.workbuddy.host/liuguang_v1.4.2_PC.zip?sharecode=232SUORMIT"
   },
   "contact": {
     "wechat_id": "48486858",
