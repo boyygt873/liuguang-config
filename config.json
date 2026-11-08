@@ -19,16 +19,16 @@
     "xhs": false
   },
   "latest_version": {
-    "code": 29,
-    "name": "2.1.0-alpha.19",
+    "code": 30,
+    "name": "2.1.0-alpha.20",
     "apk_url": "https://a0e92c7697f2193d5.app.workbuddy.host/app-release.apk?sharecode=232SUORMIT",
     "lite_apk_url": "https://a0e92c7697f2193d5.app.workbuddy.host/app-release-lite.apk?sharecode=232SUORMIT",
-    "changelog": "修复：小红书视频解析成功但下载失败（CLEARTEXT 明文拦截）——CDN 地址统一升级 https"
+    "changelog": "修复：小红书图集图片下载 HTTP 403（图片 CDN 校验 Referer，按平台匹配请求头）"
   },
   "pc_version": {
-    "code": 8,
-    "name": "1.4.2",
-    "pc_url": "https://a0e92c7697f2193d5.app.workbuddy.host/liuguang_v1.4.2_PC.zip?sharecode=232SUORMIT"
+    "code": 9,
+    "name": "1.4.3",
+    "pc_url": "https://a0e92c7697f2193d5.app.workbuddy.host/liuguang_v1.4.3_PC.zip?sharecode=232SUORMIT"
   },
   "contact": {
     "wechat_id": "48486858",
