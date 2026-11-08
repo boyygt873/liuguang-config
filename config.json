@@ -19,11 +19,11 @@
     "xhs": false
   },
   "latest_version": {
-    "code": 28,
-    "name": "2.1.0-alpha.18",
+    "code": 29,
+    "name": "2.1.0-alpha.19",
     "apk_url": "https://a0e92c7697f2193d5.app.workbuddy.host/app-release.apk?sharecode=232SUORMIT",
     "lite_apk_url": "https://a0e92c7697f2193d5.app.workbuddy.host/app-release-lite.apk?sharecode=232SUORMIT",
-    "changelog": "修复：小红书 App 分享链接解析失败（移动分享链路适配，不再误报 Cookie 失效）"
+    "changelog": "修复：小红书视频解析成功但下载失败（CLEARTEXT 明文拦截）——CDN 地址统一升级 https"
   },
   "pc_version": {
     "code": 8,
