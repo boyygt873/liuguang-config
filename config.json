@@ -19,11 +19,11 @@
     "xhs": false
   },
   "latest_version": {
-    "code": 30,
-    "name": "2.1.0-alpha.20",
+    "code": 31,
+    "name": "2.1.0-alpha.21",
     "apk_url": "https://a0e92c7697f2193d5.app.workbuddy.host/app-release.apk?sharecode=232SUORMIT",
     "lite_apk_url": "https://a0e92c7697f2193d5.app.workbuddy.host/app-release-lite.apk?sharecode=232SUORMIT",
-    "changelog": "修复：小红书图集图片下载 HTTP 403（图片 CDN 校验 Referer，按平台匹配请求头）"
+    "changelog": "修复：小红书视频下载 HTTP 403（视频 CDN 开启 Referer 校验，403 自动换请求头重试）"
   },
   "pc_version": {
     "code": 9,
