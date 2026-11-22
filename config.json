@@ -19,16 +19,16 @@
     "xhs": false
   },
   "latest_version": {
-    "code": 32,
-    "name": "2.1.0-alpha.22",
+    "code": 33,
+    "name": "2.1.0-alpha.23",
     "apk_url": "https://a0e92c7697f2193d5.app.workbuddy.host/app-release.apk?sharecode=232SUORMIT",
     "lite_apk_url": "https://a0e92c7697f2193d5.app.workbuddy.host/app-release-lite.apk?sharecode=232SUORMIT",
-    "changelog": "新增：小红书图集保存无水印原图（全尺寸高清，原图失效自动回退预览图）"
+    "changelog": "新增：小红书视频下载无水印原画（原始上传文件直链，失效自动回退转码流）；修复：素材库小红书素材平台图标显示错误"
   },
   "pc_version": {
-    "code": 10,
-    "name": "1.4.4",
-    "pc_url": "https://a0e92c7697f2193d5.app.workbuddy.host/liuguang_v1.4.4_PC.zip?sharecode=232SUORMIT"
+    "code": 11,
+    "name": "1.4.5",
+    "pc_url": "https://a0e92c7697f2193d5.app.workbuddy.host/liuguang_v1.4.5_PC.zip?sharecode=232SUORMIT"
   },
   "contact": {
     "wechat_id": "48486858",
