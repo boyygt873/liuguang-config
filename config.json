@@ -26,9 +26,9 @@
     "changelog": "新增：批量下载停止/暂停——主页与热点批量准备中可一键停止；任务中心支持全部暂停/继续/停止全部"
   },
   "pc_version": {
-    "code": 11,
-    "name": "1.4.5",
-    "pc_url": "https://a0e92c7697f2193d5.app.workbuddy.host/liuguang_v1.4.5_PC.zip?sharecode=232SUORMIT"
+    "code": 12,
+    "name": "1.4.6",
+    "pc_url": "https://a0e92c7697f2193d5.app.workbuddy.host/liuguang_v1.4.6_PC.zip?sharecode=232SUORMIT"
   },
   "contact": {
     "wechat_id": "48486858",
