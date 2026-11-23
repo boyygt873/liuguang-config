@@ -19,11 +19,11 @@
     "xhs": false
   },
   "latest_version": {
-    "code": 33,
-    "name": "2.1.0-alpha.23",
+    "code": 34,
+    "name": "2.1.0-alpha.24",
     "apk_url": "https://a0e92c7697f2193d5.app.workbuddy.host/app-release.apk?sharecode=232SUORMIT",
     "lite_apk_url": "https://a0e92c7697f2193d5.app.workbuddy.host/app-release-lite.apk?sharecode=232SUORMIT",
-    "changelog": "新增：小红书视频下载无水印原画（原始上传文件直链，失效自动回退转码流）；修复：素材库小红书素材平台图标显示错误"
+    "changelog": "新增：批量下载停止/暂停——主页与热点批量准备中可一键停止；任务中心支持全部暂停/继续/停止全部"
   },
   "pc_version": {
     "code": 11,
